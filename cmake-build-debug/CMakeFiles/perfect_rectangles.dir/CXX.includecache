@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/leetcode/perfect_rectangles_391.cpp
+perfect_rectangles_391.h
+/root/CLionProjects/leetcode/perfect_rectangles_391.h
+iostream
+-
+vector
+-
+set
+-
+
+/root/CLionProjects/leetcode/perfect_rectangles_391.h
+

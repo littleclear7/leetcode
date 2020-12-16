@@ -1,0 +1,8 @@
+//
+// Created by root on 2020/12/16.
+//
+
+#ifndef LEETCODE_226_INVERTTREE_H
+#define LEETCODE_226_INVERTTREE_H
+
+#endif //LEETCODE_226_INVERTTREE_H

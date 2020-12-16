@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/perfect_rectangles.dir/perfect_rectangles_391.cpp.o  -o perfect_rectangles 
