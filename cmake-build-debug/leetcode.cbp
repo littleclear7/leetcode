@@ -81,7 +81,248 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="binaryTreeLevelOrder">
+				<Option output="/root/CLionProjects/leetcode/cmake-build-debug/binaryTreeLevelOrder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 binaryTreeLevelOrder"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="binaryTreeLevelOrder/fast">
+				<Option output="/root/CLionProjects/leetcode/cmake-build-debug/binaryTreeLevelOrder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 binaryTreeLevelOrder/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="124">
+				<Option output="/root/CLionProjects/leetcode/cmake-build-debug/124" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 124"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="124/fast">
+				<Option output="/root/CLionProjects/leetcode/cmake-build-debug/124" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 124/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="116">
+				<Option output="/root/CLionProjects/leetcode/cmake-build-debug/116" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 116"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="116/fast">
+				<Option output="/root/CLionProjects/leetcode/cmake-build-debug/116" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 116/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="94">
+				<Option output="/root/CLionProjects/leetcode/cmake-build-debug/94" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 94"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="94/fast">
+				<Option output="/root/CLionProjects/leetcode/cmake-build-debug/94" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 94/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="114">
+				<Option output="/root/CLionProjects/leetcode/cmake-build-debug/114" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 114"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="114/fast">
+				<Option output="/root/CLionProjects/leetcode/cmake-build-debug/114" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 114/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
+		<Unit filename="/root/CLionProjects/leetcode/114.cpp">
+			<Option target="114"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/leetcode/114.h">
+			<Option target="114"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/leetcode/116.cpp">
+			<Option target="116"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/leetcode/116.h">
+			<Option target="116"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/leetcode/124binary_tree_max.cpp">
+			<Option target="124"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/leetcode/94.cpp">
+			<Option target="94"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/leetcode/binaryTreeLevelOrder.cpp">
+			<Option target="binaryTreeLevelOrder"/>
+		</Unit>
 		<Unit filename="/root/CLionProjects/leetcode/perfect_rectangles_391.cpp">
 			<Option target="perfect_rectangles"/>
 		</Unit>

@@ -123,6 +123,206 @@ perfect_rectangles/fast:
 	$(MAKE) -f CMakeFiles/perfect_rectangles.dir/build.make CMakeFiles/perfect_rectangles.dir/build
 .PHONY : perfect_rectangles/fast
 
+#=============================================================================
+# Target rules for targets named binaryTreeLevelOrder
+
+# Build rule for target.
+binaryTreeLevelOrder: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 binaryTreeLevelOrder
+.PHONY : binaryTreeLevelOrder
+
+# fast build rule for target.
+binaryTreeLevelOrder/fast:
+	$(MAKE) -f CMakeFiles/binaryTreeLevelOrder.dir/build.make CMakeFiles/binaryTreeLevelOrder.dir/build
+.PHONY : binaryTreeLevelOrder/fast
+
+#=============================================================================
+# Target rules for targets named 124
+
+# Build rule for target.
+124: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 124
+.PHONY : 124
+
+# fast build rule for target.
+124/fast:
+	$(MAKE) -f CMakeFiles/124.dir/build.make CMakeFiles/124.dir/build
+.PHONY : 124/fast
+
+#=============================================================================
+# Target rules for targets named 116
+
+# Build rule for target.
+116: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 116
+.PHONY : 116
+
+# fast build rule for target.
+116/fast:
+	$(MAKE) -f CMakeFiles/116.dir/build.make CMakeFiles/116.dir/build
+.PHONY : 116/fast
+
+#=============================================================================
+# Target rules for targets named 94
+
+# Build rule for target.
+94: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 94
+.PHONY : 94
+
+# fast build rule for target.
+94/fast:
+	$(MAKE) -f CMakeFiles/94.dir/build.make CMakeFiles/94.dir/build
+.PHONY : 94/fast
+
+#=============================================================================
+# Target rules for targets named 114
+
+# Build rule for target.
+114: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 114
+.PHONY : 114
+
+# fast build rule for target.
+114/fast:
+	$(MAKE) -f CMakeFiles/114.dir/build.make CMakeFiles/114.dir/build
+.PHONY : 114/fast
+
+114.o: 114.cpp.o
+
+.PHONY : 114.o
+
+# target to build an object file
+114.cpp.o:
+	$(MAKE) -f CMakeFiles/114.dir/build.make CMakeFiles/114.dir/114.cpp.o
+.PHONY : 114.cpp.o
+
+114.i: 114.cpp.i
+
+.PHONY : 114.i
+
+# target to preprocess a source file
+114.cpp.i:
+	$(MAKE) -f CMakeFiles/114.dir/build.make CMakeFiles/114.dir/114.cpp.i
+.PHONY : 114.cpp.i
+
+114.s: 114.cpp.s
+
+.PHONY : 114.s
+
+# target to generate assembly for a file
+114.cpp.s:
+	$(MAKE) -f CMakeFiles/114.dir/build.make CMakeFiles/114.dir/114.cpp.s
+.PHONY : 114.cpp.s
+
+116.o: 116.cpp.o
+
+.PHONY : 116.o
+
+# target to build an object file
+116.cpp.o:
+	$(MAKE) -f CMakeFiles/116.dir/build.make CMakeFiles/116.dir/116.cpp.o
+.PHONY : 116.cpp.o
+
+116.i: 116.cpp.i
+
+.PHONY : 116.i
+
+# target to preprocess a source file
+116.cpp.i:
+	$(MAKE) -f CMakeFiles/116.dir/build.make CMakeFiles/116.dir/116.cpp.i
+.PHONY : 116.cpp.i
+
+116.s: 116.cpp.s
+
+.PHONY : 116.s
+
+# target to generate assembly for a file
+116.cpp.s:
+	$(MAKE) -f CMakeFiles/116.dir/build.make CMakeFiles/116.dir/116.cpp.s
+.PHONY : 116.cpp.s
+
+124binary_tree_max.o: 124binary_tree_max.cpp.o
+
+.PHONY : 124binary_tree_max.o
+
+# target to build an object file
+124binary_tree_max.cpp.o:
+	$(MAKE) -f CMakeFiles/124.dir/build.make CMakeFiles/124.dir/124binary_tree_max.cpp.o
+.PHONY : 124binary_tree_max.cpp.o
+
+124binary_tree_max.i: 124binary_tree_max.cpp.i
+
+.PHONY : 124binary_tree_max.i
+
+# target to preprocess a source file
+124binary_tree_max.cpp.i:
+	$(MAKE) -f CMakeFiles/124.dir/build.make CMakeFiles/124.dir/124binary_tree_max.cpp.i
+.PHONY : 124binary_tree_max.cpp.i
+
+124binary_tree_max.s: 124binary_tree_max.cpp.s
+
+.PHONY : 124binary_tree_max.s
+
+# target to generate assembly for a file
+124binary_tree_max.cpp.s:
+	$(MAKE) -f CMakeFiles/124.dir/build.make CMakeFiles/124.dir/124binary_tree_max.cpp.s
+.PHONY : 124binary_tree_max.cpp.s
+
+94.o: 94.cpp.o
+
+.PHONY : 94.o
+
+# target to build an object file
+94.cpp.o:
+	$(MAKE) -f CMakeFiles/94.dir/build.make CMakeFiles/94.dir/94.cpp.o
+.PHONY : 94.cpp.o
+
+94.i: 94.cpp.i
+
+.PHONY : 94.i
+
+# target to preprocess a source file
+94.cpp.i:
+	$(MAKE) -f CMakeFiles/94.dir/build.make CMakeFiles/94.dir/94.cpp.i
+.PHONY : 94.cpp.i
+
+94.s: 94.cpp.s
+
+.PHONY : 94.s
+
+# target to generate assembly for a file
+94.cpp.s:
+	$(MAKE) -f CMakeFiles/94.dir/build.make CMakeFiles/94.dir/94.cpp.s
+.PHONY : 94.cpp.s
+
+binaryTreeLevelOrder.o: binaryTreeLevelOrder.cpp.o
+
+.PHONY : binaryTreeLevelOrder.o
+
+# target to build an object file
+binaryTreeLevelOrder.cpp.o:
+	$(MAKE) -f CMakeFiles/binaryTreeLevelOrder.dir/build.make CMakeFiles/binaryTreeLevelOrder.dir/binaryTreeLevelOrder.cpp.o
+.PHONY : binaryTreeLevelOrder.cpp.o
+
+binaryTreeLevelOrder.i: binaryTreeLevelOrder.cpp.i
+
+.PHONY : binaryTreeLevelOrder.i
+
+# target to preprocess a source file
+binaryTreeLevelOrder.cpp.i:
+	$(MAKE) -f CMakeFiles/binaryTreeLevelOrder.dir/build.make CMakeFiles/binaryTreeLevelOrder.dir/binaryTreeLevelOrder.cpp.i
+.PHONY : binaryTreeLevelOrder.cpp.i
+
+binaryTreeLevelOrder.s: binaryTreeLevelOrder.cpp.s
+
+.PHONY : binaryTreeLevelOrder.s
+
+# target to generate assembly for a file
+binaryTreeLevelOrder.cpp.s:
+	$(MAKE) -f CMakeFiles/binaryTreeLevelOrder.dir/build.make CMakeFiles/binaryTreeLevelOrder.dir/binaryTreeLevelOrder.cpp.s
+.PHONY : binaryTreeLevelOrder.cpp.s
+
 perfect_rectangles_391.o: perfect_rectangles_391.cpp.o
 
 .PHONY : perfect_rectangles_391.o
@@ -159,6 +359,26 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... perfect_rectangles"
+	@echo "... binaryTreeLevelOrder"
+	@echo "... 124"
+	@echo "... 116"
+	@echo "... 94"
+	@echo "... 114"
+	@echo "... 114.o"
+	@echo "... 114.i"
+	@echo "... 114.s"
+	@echo "... 116.o"
+	@echo "... 116.i"
+	@echo "... 116.s"
+	@echo "... 124binary_tree_max.o"
+	@echo "... 124binary_tree_max.i"
+	@echo "... 124binary_tree_max.s"
+	@echo "... 94.o"
+	@echo "... 94.i"
+	@echo "... 94.s"
+	@echo "... binaryTreeLevelOrder.o"
+	@echo "... binaryTreeLevelOrder.i"
+	@echo "... binaryTreeLevelOrder.s"
 	@echo "... perfect_rectangles_391.o"
 	@echo "... perfect_rectangles_391.i"
 	@echo "... perfect_rectangles_391.s"
